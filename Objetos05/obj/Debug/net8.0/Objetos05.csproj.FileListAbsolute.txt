@@ -1,0 +1,14 @@
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/bin/Debug/net8.0/Objetos05
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/bin/Debug/net8.0/Objetos05.deps.json
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/bin/Debug/net8.0/Objetos05.runtimeconfig.json
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/bin/Debug/net8.0/Objetos05.dll
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/bin/Debug/net8.0/Objetos05.pdb
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.AssemblyInfoInputs.cache
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.AssemblyInfo.cs
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.csproj.CoreCompileInputs.cache
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.dll
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/refint/Objetos05.dll
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.pdb
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/Objetos05.genruntimeconfig.cache
+/home/jose-ruan/RiderProjects/Objetos/Objetos05/obj/Debug/net8.0/ref/Objetos05.dll

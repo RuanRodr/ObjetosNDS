@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objetos11", "Objetos11\Obje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objetos12", "Objetos12\Objetos12.csproj", "{50D3E0A7-8605-4696-9E72-6085BFBDFEBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objetos13", "Objetos13\Objetos13.csproj", "{67E79CAA-A009-42F4-A707-F3B331785B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "objetos14", "objetos14\objetos14.csproj", "{72709BD1-1C6E-422C-94BD-2FC7B54B4D1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{50D3E0A7-8605-4696-9E72-6085BFBDFEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D3E0A7-8605-4696-9E72-6085BFBDFEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D3E0A7-8605-4696-9E72-6085BFBDFEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E79CAA-A009-42F4-A707-F3B331785B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E79CAA-A009-42F4-A707-F3B331785B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E79CAA-A009-42F4-A707-F3B331785B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E79CAA-A009-42F4-A707-F3B331785B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72709BD1-1C6E-422C-94BD-2FC7B54B4D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72709BD1-1C6E-422C-94BD-2FC7B54B4D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72709BD1-1C6E-422C-94BD-2FC7B54B4D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72709BD1-1C6E-422C-94BD-2FC7B54B4D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

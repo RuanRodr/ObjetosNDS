@@ -6,7 +6,7 @@ namespace objetos12
     {
         static void Main(string[] args)
         {
-            var room = new Room(3);
+            var room = new Room(4);
             room.RoomSoldOutEvent += OnRoomSoldOut;
                 
             room.ReserveSeat();
